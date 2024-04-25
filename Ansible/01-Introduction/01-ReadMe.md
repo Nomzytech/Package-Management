@@ -4,7 +4,7 @@
 deployment and provisioning Automation tool maintained by Redhat.
 - It is very, very simple to setup and yet powerful.
 - Ansible will be helpful to perform:
-    . Configuration Management
+    . Configuration Managements
     . Application Deployment
     . Task Automation
     . IT Orchestration
